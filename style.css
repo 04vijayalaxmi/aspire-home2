@@ -1,0 +1,185 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: 'poppins';
+}
+.main{
+    width:100%;
+}
+.main img{
+    width: 100%;
+    height:500px;
+
+}
+
+.text{
+    position: absolute;
+    top:25%;
+    color:#fff;
+    padding:20px;
+
+}
+.main h3{
+    font-size: 28px;
+    font-weight: 500;
+    color: #e94d65;
+}
+.main h1{
+    font-size: 68px;
+    font-weight: 700;
+    color: #043d72;
+    font-weight: bold;
+}
+.text p{
+    font-size: 20px;
+    text-align: justify;
+}
+.text button{
+    width: 120px;
+    height: 40px;
+    border-radius: 30px;
+    background-color: #f15338;
+    border: none;
+    margin-top: 30px;
+}
+.text button:hover{
+background-color: #0d6efd;
+border: none;
+}
+
+.threecards{
+    display:flex;
+    padding-left: 250px;
+    margin-top:-80px;
+    background-color: #fff;
+}
+.firstcard, .secondcard, .thirdcard{
+height: 400px;
+width:330px;
+background-color: #fff;
+
+}
+.firstcard img{
+  height:60px;
+  width:60px;
+}
+.firsttext h3{
+    font-size: 26px;
+    margin-top: 15px;
+    color: #043d72;
+    font-weight: bold;
+}
+.firsttext p{
+    font-size: 18px;
+    text-align: justify;
+    margin-top: 5px;
+    line-height: 1.2rem;
+
+}
+.firsttext button{
+color: white;
+border: none;
+width:150px;
+height:30px;
+border-radius: 5px;
+background-color: #fff;
+}
+.firsttext button:hover{
+background-color: #e94d65;
+}
+
+
+.secondcard img{
+    height:60px;
+    width:60px;
+  }
+
+  .thirdcard{
+    border-radius: 0px 250px 0px 0px;
+    height: 400px;
+width:330px;
+}
+.thirdcard img{
+    height:60px;
+    width:60px;
+  }
+  .aboutmain{
+    display: flex;
+  }
+  .about img{
+    height: 603px;
+    width: 483px;
+    border-radius: 0px 150px 0px 0px;
+    padding-left: 80px;
+  }
+  .box{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background-color: #043d72;
+    text-align: center;
+    color: #fff;
+    margin-top: 300px;
+    margin-left: -60px;
+    border-color: #fff;
+    border-width: 30px;
+  }
+  .box h2{
+    padding-top: 50px;
+  }
+.about-text{
+    margin-top: 120px;
+    margin-left: 50px;
+}
+.about-text h3{
+    color: #e94d65;
+    font-size: 25px;margin-top: 30px;
+}
+.about-text h1{
+    font-size: 34px;
+    color: #043d72; 
+    margin-top: 20px;
+}
+.about-text p{
+    font-size: 20px;
+    margin-top: 25px;
+
+}
+.service{
+    text-align: center;
+    margin-top: 80px;
+}
+.service h3{
+    font-size: 26px;
+    color: #e94d65;
+
+}
+.service h1{
+    font-size: 30px;
+    color: #043d72; 
+    margin-top: 20px;
+    
+}
+
+.achivement{
+    margin-top:20px;
+    margin-left: 50px;
+}
+.achivement h3{
+    font-size: 20px;
+    color: #e94d65; ;
+}
+
+
+
+.threediv{
+    display: flex;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.achivement-pic{
+    display: flex;
+}
+
+    
